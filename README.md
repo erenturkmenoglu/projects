@@ -5,10 +5,13 @@ __________________________________________________________________________
 We have 2 project file in this repository;
 
 ###########
+
 1. finance
 2. nfc_tags
+
 ###########
-#
+
+
 1. In this section, financial models and algorithms will take place.
 Currently, there is no project in this folder.
 
