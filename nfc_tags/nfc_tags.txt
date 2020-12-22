@@ -1,0 +1,4 @@
+In this section, I will gather my researches about NFC tags 
+(Near Field Communication Tags) which can transfer information 
+within very short ranges via cellphones.
+Currently, there is no project in this folder.
